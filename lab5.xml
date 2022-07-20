@@ -1,0 +1,16 @@
+<?xml-stylesheet type="text/css" href="labProgram5.css"?>
+<html>
+	<head>
+		<h1> STUDENT DESCRIPTION </h1>
+	</head>
+	<students>
+		<student>
+			<usn> USN : 4MT19CS154 	</usn>
+			<name> NAME : SHRINIDHI A </name>
+			<college> COLLEGE : MITE </college>
+			<branch> BRANCH : CS </branch>
+			<year> YEAR : 2007 </year>
+			<email> EMAIL : shrinidhisringeri@gmail.com </email>
+		</student>
+	</students>
+</html>
